@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./profile-artwork.png" width="200" alt="Muhammed Ajmal KP"/>
+<img src="./profile-artwork.png" width="300" alt="Muhammed Ajmal"/>
 
-# Hi there, I'm Muhammed Ajmal KP 👋
+# Hi, I'm Muhammed Ajmal
 
 ### 3D Artist & 3D Character Animator · Dubai, UAE 🇦🇪
 
@@ -34,7 +34,7 @@ I'm a passionate **3D Artist and Character Animator** based in Dubai, UAE, with 
   <tr>
     <td align="center" width="150"><img src="./RUIDdecdae637b6242b9963a4b5af19f5e89.png" width="84" alt="Maya"/><br/><sub><b>Maya</b></sub></td>
     <td align="center" width="150"><img src="./RUIDd3685b36d1c445099e85829255612574.png" width="84" alt="Blender"/><br/><sub><b>Blender</b></sub></td>
-    <td align="center" width="150"><img src="./zbrush.svg" width="84" alt="ZBrush"/><br/><sub><b>ZBrush</b></sub></td>
+    <td align="center" width="150"><img src="./RUID2486985a88c140d7abb0bf1340766bfb.png" width="84" alt="ZBrush"/><br/><sub><b>ZBrush</b></sub></td>
   </tr>
   <tr>
     <td align="center" width="150"><img src="./RUID9932f364d2bc482186fb9b7526b22f49.png" width="84" alt="Substance Painter"/><br/><sub><b>Substance Painter</b></sub></td>
