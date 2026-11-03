@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-artwork.png" width="300" alt="Muhammed Ajmal"/>
+<img src="./skull2.png" width="300" alt="Muhammed Ajmal"/>
 
 # Hi, I'm Muhammed Ajmal
 
