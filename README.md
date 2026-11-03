@@ -1,16 +1,64 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**KpmAjmal/KpmAjmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./profile-artwork.png" width="200" alt="Muhammed Ajmal KP"/>
 
-Here are some ideas to get you started:
+# Hi there, I'm Muhammed Ajmal KP 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 3D Artist & 3D Character Animator · Dubai, UAE 🇦🇪
+
+[![Profile Views](https://komarev.com/ghpvc/?username=KpmAjmal&color=blueviolet&style=flat-square)](https://github.com/KpmAjmal)
+
+*Bringing character poses to life with weight, mechanics, and expressive performance.*
+
+</div>
+
+---
+
+## 🎬 About Me
+
+I'm a passionate **3D Artist and Character Animator** based in Dubai, UAE, with 3+ years of studio, corporate media, and architectural experience across the **UAE, Bahrain, and India**.
+
+- 📍 **Location:** Dubai, UAE
+- 🎭 **Focus:** Body mechanics, character performance, timing, expressive lip-sync, and cinematic motion
+- 🚀 **Worked with:**
+  - **Broeck Real Estate** (Dubai)
+  - **DM Immigration Consultants** (Dubai)
+  - **7 Toonz Animation Studio** (Bahrain)
+  - **Assemblage Entertainment** (Mumbai, India)
+
+---
+
+<h2 align="center">🛠️ Software I Use</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="150"><img src="./maya.svg" width="84" alt="Maya"/><br/><sub><b>Maya</b></sub></td>
+    <td align="center" width="150"><img src="./blender.svg" width="84" alt="Blender"/><br/><sub><b>Blender</b></sub></td>
+    <td align="center" width="150"><img src="./zbrush.svg" width="84" alt="ZBrush"/><br/><sub><b>ZBrush</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><img src="./substance-painter.svg" width="84" alt="Substance Painter"/><br/><sub><b>Substance Painter</b></sub></td>
+    <td align="center" width="150"><img src="./nomad-sculpt.svg" width="84" alt="Nomad Sculpt"/><br/><sub><b>Nomad Sculpt</b></sub></td>
+    <td align="center" width="150"><img src="./photoshop.svg" width="84" alt="Photoshop"/><br/><sub><b>Photoshop</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><img src="./illustrator.svg" width="84" alt="Illustrator"/><br/><sub><b>Illustrator</b></sub></td>
+    <td align="center" width="150"><img src="./after-effects.svg" width="84" alt="After Effects"/><br/><sub><b>After Effects</b></sub></td>
+    <td align="center" width="150"><img src="./premiere-pro.svg" width="84" alt="Premiere Pro"/><br/><sub><b>Premiere Pro</b></sub></td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🌐 Portfolio & Reels</h2>
+
+<p align="center">
+  <a href="https://kpmstudio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.artstation.com/kpmajmal5"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation"/></a>
+  <a href="https://vimeo.com/user172910674"><img src="https://img.shields.io/badge/Vimeo-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white" alt="Vimeo"/></a>
+  <a href="https://www.youtube.com/@KpmAjmal"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+</p>
+
+<div align="center">
+  <sub>Designed with passion for 3D art & animation</sub>
+</div>
