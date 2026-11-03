@@ -32,13 +32,13 @@ I'm a passionate **3D Artist and Character Animator** based in Dubai, UAE, with 
 
 <table align="center">
   <tr>
-    <td align="center" width="150"><img src="./maya.svg" width="84" alt="Maya"/><br/><sub><b>Maya</b></sub></td>
-    <td align="center" width="150"><img src="./blender.svg" width="84" alt="Blender"/><br/><sub><b>Blender</b></sub></td>
+    <td align="center" width="150"><img src="./RUIDdecdae637b6242b9963a4b5af19f5e89.png" width="84" alt="Maya"/><br/><sub><b>Maya</b></sub></td>
+    <td align="center" width="150"><img src="./RUIDd3685b36d1c445099e85829255612574.png" width="84" alt="Blender"/><br/><sub><b>Blender</b></sub></td>
     <td align="center" width="150"><img src="./zbrush.svg" width="84" alt="ZBrush"/><br/><sub><b>ZBrush</b></sub></td>
   </tr>
   <tr>
-    <td align="center" width="150"><img src="./substance-painter.svg" width="84" alt="Substance Painter"/><br/><sub><b>Substance Painter</b></sub></td>
-    <td align="center" width="150"><img src="./nomad-sculpt.svg" width="84" alt="Nomad Sculpt"/><br/><sub><b>Nomad Sculpt</b></sub></td>
+    <td align="center" width="150"><img src="./RUID9932f364d2bc482186fb9b7526b22f49.png" width="84" alt="Substance Painter"/><br/><sub><b>Substance Painter</b></sub></td>
+    <td align="center" width="150"><img src="./RUIDbc97bde667744511bae4f86da54549aa.svg" width="84" alt="Nomad Sculpt"/><br/><sub><b>Nomad Sculpt</b></sub></td>
     <td align="center" width="150"><img src="./photoshop.svg" width="84" alt="Photoshop"/><br/><sub><b>Photoshop</b></sub></td>
   </tr>
   <tr>
